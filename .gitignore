@@ -7,8 +7,8 @@
 *.pfx
 id_rsa*
 id_ed25519*
-*credentials*
-*secret*
+*credentials*.json
+*secrets*.json
 
 # OS / editor noise
 .DS_Store
