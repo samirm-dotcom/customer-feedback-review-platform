@@ -1,0 +1,17 @@
+# Never commit secrets or private documents
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+*credentials*
+*secret*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
